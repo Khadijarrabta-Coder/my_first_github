@@ -18,4 +18,4 @@ It aims to support learning by providing simple and clear responses.
 ## Installation
 1. Clone the repository:
    ```bash
-   
+   https://github.com/Khadijarrabta-Coder/my_first_github.git
