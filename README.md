@@ -16,6 +16,6 @@ It aims to support learning by providing simple and clear responses.
 - Git & GitHub
 
 ## Installation
-1. Clone the repository:
+- Clone the repository:
    ```bash
    https://github.com/Khadijarrabta-Coder/my_first_github.git
