@@ -1,7 +1,7 @@
-/* del langue_qcm.db
-python database.py
-python insert_questions.py
-python bot.py */
+#del langue_qcm.db
+#python database.py
+#python insert_questions.py
+#python bot.py 
 import logging
 import requests
 import time
